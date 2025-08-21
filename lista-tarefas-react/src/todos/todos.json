@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "titulo": "Comprar leite", "concluido": false },
+    { "id": 2, "titulo": "Estudar React", "concluido": true },
+    { "id": 3, "titulo": "Fazer exercícios", "concluido": false }
+  ]
+}
